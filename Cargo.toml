@@ -1,0 +1,7 @@
+[package]
+name = "toy_regex"
+version = "0.1.0"
+authors = ["AdnoC <adam.r.cutler@gmail.com>"]
+
+[dependencies]
+itertools = "0.5.8"
