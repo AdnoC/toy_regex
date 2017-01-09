@@ -5,3 +5,4 @@ authors = ["AdnoC <adam.r.cutler@gmail.com>"]
 
 [dependencies]
 itertools = "0.5.8"
+typed-arena = "1.2.0"
